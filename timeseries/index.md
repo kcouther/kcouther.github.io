@@ -1,7 +1,8 @@
 ---
 title: TimeSeries Decomposition
-description: Course Content
+description: Course Data
 ---
-Here is a Time Series Decomposition I use in my CBTA course
+TimeSeries Decomposition Jupyter Notebooks:
 - [Time Series Decomposition (html)](TimeSeriesDecomposition.html)
+
 - [Time Series Decomposition (ipynb)](TimeSeriesDecomposition.ipynb)
