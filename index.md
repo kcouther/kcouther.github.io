@@ -11,6 +11,6 @@ This is the content I've developed for my courses:
 
 My first GitHub Repository:
 
--[First Repository](https://github.com/kcouther/sample1)
+- [First Repository](https://github.com/kcouther/sample1)
 
 
