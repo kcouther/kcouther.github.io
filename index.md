@@ -9,9 +9,9 @@ This is the content I've developed for my courses:
 
 - [Time Series Decomposition](/timeseries/index.md)
 
-- [Matplotlib Graph Aesthetics(html)](/M3 MatplotlibGraphAesthetics.html)
+- [Matplotlib Graph Aesthetics (html)](/M3 MatplotlibGraphAesthetics.html)
 
-- [Matplotlib Graph Aesthetics(.ipynb)(/M3 MatplotlibGraphAesthetics.ipynb)
+- [Matplotlib Graph Aesthetics (ipynb)(/M3 MatplotlibGraphAesthetics.ipynb)
 
 My first GitHub Repository:
 
