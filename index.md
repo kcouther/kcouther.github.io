@@ -5,7 +5,7 @@ description: Learning GitHub for my CTBA course
 
 ![My Picture](/pics/pareto.jpg)
 
-This is the content from my courses:
+This is content from my studies:
 
 - [Time Series Decomposition](/timeseries/index.md)
 
