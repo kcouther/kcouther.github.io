@@ -9,6 +9,8 @@ This is the content I've developed for my courses:
 
 - [Time Series Decomposition](/timeseries/index.md)
 
+- [Matplotlib Graph Aesthetics](M3 MatplotlibGraphAesthetics.html)
+
 My first GitHub Repository:
 
 - [First Repository](https://github.com/kcouther/sample1)
