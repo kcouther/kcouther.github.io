@@ -11,7 +11,7 @@ This is the content I've developed for my courses:
 
 - [Matplotlib Graph Aesthetics (html)](/M3 MatplotlibGraphAesthetics.html)
 
-- [Matplotlib Graph Aesthetics (ipynb)(M3 MatplotlibGraphAesthetics.ipynb)
+- [Matplotlib Graph Aesthetics (ipynb) (/M3 MatplotlibGraphAesthetics.ipynb)
 
 My first GitHub Repository:
 
